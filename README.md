@@ -19,6 +19,10 @@ An intelligent AI-powered chatbot that lets you **chat with your PDF documents**
 - Shows debug information for transparency
 - Clean and easy-to-use interface
 
+- ## 📸 Screenshot
+
+![Chat with PDFs Interface](https://github.com/YOUR_USERNAME/chat-with-pdfs/blob/main/screenshot.png)
+
 ## 🛠️ Tech Stack
 
 - **Frontend**: Streamlit
