@@ -1,0 +1,12 @@
+langchain
+langchain-community
+langchain-openai
+langchain-chroma
+pypdf
+streamlit
+python-dotenv
+chromadb
+groq
+pytesseract
+pdf2image
+pymupdf
