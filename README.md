@@ -21,7 +21,7 @@ An intelligent AI-powered chatbot that lets you **chat with your PDF documents**
 
 - ## 📸 Screenshot
 
-![Chat with PDFs](<img width="950" height="416" alt="Screenshot 2026-06-30 233733" src="https://github.com/user-attachments/assets/49c753af-6532-46bc-8e3b-223429fee66e" />)
+![Chat with PDFs Interface](screenshot.png)
 
 ## 🛠️ Tech Stack
 
