@@ -6,7 +6,7 @@ An intelligent AI-powered chatbot that lets you **chat with your PDF documents**
 
 ## 🚀 Live Demo
 
-[**Try the App Here**](https://knehvzou4qo96ekr3xfoth.streamli.app)
+[**Try the App Here**](https://knehvzou4qo96ekr3xfoth.streamlit.app/)
 
 ---
 
@@ -27,13 +27,9 @@ An intelligent AI-powered chatbot that lets you **chat with your PDF documents**
 - **Vector Store**: Chroma
 - **PDF Processing**: PyMuPDF (fitz)
 
-## 📸 Screenshots
-
-*(You can add screenshots here later)*
-
 ## How to Use
 
-1. Go to the [Live App](https://knehvzou4qo96ekr3xfoth.streamli.app)
+1. Go to the [Live App](https://knehvzou4qo96ekr3xfoth.streamlit.app/)
 2. Upload your PDF files in the sidebar
 3. Click **"Process PDFs"**
 4. Start asking questions about the documents!
